@@ -24,8 +24,9 @@ header{
    max-width: 597px;
    margin: 0 auto;
 }
-header p:first-of-type{
-    font-size: 24px;  
+header h1{
+    font-size: 24px; 
+    font-weight: 200; 
 }
 header p:nth-child(3){
     
